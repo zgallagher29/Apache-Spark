@@ -6,11 +6,16 @@ This chapter will get you familiar with Apache Spark and how you might use the c
 Cluster
 : Multiple computers that perform a task as if it were a single computer.
 
+Fault Tolerance
+: When a system continues to work properly despite having a component fail. The fail can come from anywhere: hardware, network, software, or a mix of issues. The system should work long enough for the component issue to be found and fixed. 
+
 Open source
 : A piece of software that is free for users and allows them to freely distribute the software. The source code is also open to users and they may contribute to the development of the software
 
 Resilient Distributed Datasets (RDD)
-: definition
+: Spark's data abstraction, which is partitioned data distributed across a cluster. It allows for broken or missing data to be recomputed when Spark has a failure in its nodes. 
+
+
 ## History and Background
 ## Architecture
 ## Open Source
