@@ -16,7 +16,7 @@ Resilient Distributed Datasets (RDD)
 ## Open Source
 Part of the reason why Spark is widely used is because it is open source. Open source allows companies and users to contribute to the technology. Larger companies also adopt Spark and enhance it based its needs. Spark being open source may be especially helpful for startups that do not have the funds or time to develop a similar product. 
 
-Spark is currently the largest open source big data processing projects and one of the most popular Apache projects. The large and active community ensures Spark is well maintained and well documented. If you are interested in contributing or just reading through the source code, check out Spark’s Github repo.
+Spark is currently the largest open source big data processing projects and one of the most popular Apache projects. The large and active community ensures Spark is well maintained and well documented. If you are interested in contributing or just reading through the source code, check out Spark’s Github [repo](https://github.com/apache/spark) and checkout the [guidelines] (https://spark.apache.org/contributing.html) provided by Apache. Note that contributing doesn not always mean writing code, so being a part of this project can be simple.  
 
 ## Big Data
 ## Machine Learning 
